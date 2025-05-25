@@ -1,16 +1,16 @@
 
-# 🧠 AI-Powered B2B Pricing & Estimating Dashboard
+# AI-Powered B2B Pricing & Estimating Dashboard
 
 An interactive Streamlit dashboard for Pricing & Estimating Analysts to simulate, model, and optimize pricing decisions based on historical sales and profit data — tailored for RFPs and quoting tasks.
 
 ---
 
-🚀 **Live Demo**  
+**Live Demo**  
 👉 [Launch the App](https://pricing-estimator-dashboard25-ktykxk6stxahh48ywuobfu.streamlit.app/)
 
 ---
 
-## 🎯 Goal
+##  Goal
 
 Build a data-driven pricing solution to:
 - Recommend competitive quote prices
@@ -19,7 +19,7 @@ Build a data-driven pricing solution to:
 
 ---
 
-## 👥 Intended Audience
+##  Intended Audience
 
 - Pricing Analysts
 - Sales & Business Development Teams
@@ -28,7 +28,7 @@ Build a data-driven pricing solution to:
 
 ---
 
-## 🛠️ Strategy & Pipeline Steps
+##  Strategy & Pipeline Steps
 
 1. **Data Loading & Cleaning**
    - Load `Sample - Superstore.csv` using proper encoding
@@ -49,7 +49,7 @@ Build a data-driven pricing solution to:
 
 ---
 
-## ❗ Challenges Addressed
+## Challenges Addressed
 
 - Manual RFP pricing inefficiencies
 - Regional margin uncertainty
@@ -57,13 +57,13 @@ Build a data-driven pricing solution to:
 
 ---
 
-## ❓ Problem Statement
+##  Problem Statement
 
 > “How can we enable faster, data-informed pricing and quoting decisions in complex B2B environments with multi-product, multi-region sales pipelines?”
 
 ---
 
-## 📦 Dataset
+##  Dataset
 
 - **Source**: Kaggle / Tableau Superstore
 - **File**: `Sample - Superstore.csv`
@@ -71,7 +71,7 @@ Build a data-driven pricing solution to:
 
 ---
 
-## 🤖 Machine Learning Predictions (Advanced Layer)
+## Machine Learning Predictions (Advanced Layer)
 
 | Feature Input            | Model Output              |
 |--------------------------|---------------------------|
@@ -90,7 +90,7 @@ Build a data-driven pricing solution to:
 
 ---
 
-## 🔮 AGI Vision (Future Enhancement)
+##  AGI Vision (Future Enhancement)
 
 Integrate a self-learning AGI agent to:
 - Adapt pricing based on win/loss feedback
@@ -99,7 +99,7 @@ Integrate a self-learning AGI agent to:
 
 ---
 
-## 🔗 References
+##  References
 
 - [Kaggle Dataset](https://www.kaggle.com/datasets/vivek468/superstore-dataset-final)
 - [Streamlit Docs](https://docs.streamlit.io)
@@ -107,7 +107,7 @@ Integrate a self-learning AGI agent to:
 
 ---
 
-## 👨‍💼 Author
+##  Author
 
 **Ronald Kalani**  
 [LinkedIn](https://linkedin.com/in/ronald-kalani-1a465533)
